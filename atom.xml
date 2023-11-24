@@ -6,7 +6,7 @@
   <link href="http://shiliuawa.github.io/atom.xml" rel="self"/>
   
   <link href="http://shiliuawa.github.io/"/>
-  <updated>2023-11-24T13:30:59.180Z</updated>
+  <updated>2023-11-24T13:36:36.770Z</updated>
   <id>http://shiliuawa.github.io/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="http://shiliuawa.github.io/2023/11/24/WebMC/"/>
     <id>http://shiliuawa.github.io/2023/11/24/WebMC/</id>
     <published>2023-11-24T13:02:43.000Z</published>
-    <updated>2023-11-24T13:30:59.180Z</updated>
+    <updated>2023-11-24T13:36:36.770Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://jerrychan7.github.io/WebMC/">TP</a></p>]]></content>
+    <content type="html"><![CDATA[<p>About<br>A web version of Minecraft built using js and WebGL without third-party libraries.<br><a href="https://jerrychan7.github.io/WebMC/">https://github.com/jerrychan7/WebMC</a><br>PoC Minecraft client written in Javascript (1.16.5 offline mode working)<br><a href="https://github.com/michaljaz/webmc">http://webmc.js.org/</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://jerrychan7.github.io/WebMC/&quot;&gt;TP&lt;/a&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;About&lt;br&gt;A web version of Minecraft built using js and WebGL without third-party libraries.&lt;br&gt;&lt;a href=&quot;https://jerrychan7.github.io/WebM</summary>
       
     
     

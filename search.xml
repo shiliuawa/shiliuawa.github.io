@@ -445,7 +445,7 @@
   <entry>
     <title>WebMC</title>
     <url>/2023/11/24/WebMC/</url>
-    <content><![CDATA[<p><a href="https://jerrychan7.github.io/WebMC/">TP</a></p>
+    <content><![CDATA[<p>About<br>A web version of Minecraft built using js and WebGL without third-party libraries.<br><a href="https://jerrychan7.github.io/WebMC/">https://github.com/jerrychan7/WebMC</a><br>PoC Minecraft client written in Javascript (1.16.5 offline mode working)<br><a href="https://github.com/michaljaz/webmc">http://webmc.js.org/</a></p>
 ]]></content>
   </entry>
 </search>
