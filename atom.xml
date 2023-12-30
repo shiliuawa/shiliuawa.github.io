@@ -6,7 +6,7 @@
   <link href="http://shiliuawa.github.io/atom.xml" rel="self"/>
   
   <link href="http://shiliuawa.github.io/"/>
-  <updated>2023-11-24T13:36:36.770Z</updated>
+  <updated>2023-12-30T06:10:29.990Z</updated>
   <id>http://shiliuawa.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HW</title>
+    <link href="http://shiliuawa.github.io/2023/12/30/HW/"/>
+    <id>http://shiliuawa.github.io/2023/12/30/HW/</id>
+    <published>2023-12-30T06:10:06.000Z</published>
+    <updated>2023-12-30T06:10:29.990Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img-shiliu.pages.dev/file/691ddbee1212b5319bf6e.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img-shiliu.pages.dev/file/691ddbee1212b5319bf6e.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>WebMC</title>
